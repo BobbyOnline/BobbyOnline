@@ -17,7 +17,7 @@
   </tr>
 </table>
 
-### DePaul Univeristy CS Student | 🌌 DePaul Esports Leadership | 🎮 Software Engineer
+### DePaul Univeristy CS Student |  DePaul Esports Leadership |  Software Engineer
 
 ---
 
@@ -33,7 +33,7 @@
   <img src="https://skillicons.dev/icons?i=typescript" width="40" alt="TypeScript">
 </p>
 
-#### 📊 Harvest Stats:
+#### 📊 Github Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=BobbyOnline&show_icons=true&theme=synthwave" alt="BobbyOnline's GitHub stats" />
 
 #### 🍉 Fruit Communication:

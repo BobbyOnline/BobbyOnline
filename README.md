@@ -1,12 +1,11 @@
 ## Hello!! 【=◈︿◈=】
-
 <table>
   <tr>
     <td>
       <pre style="margin: 0;">
  ____        _     
-| __ )  ___ | |__  
-|  _ \ / _ \| '_ \ 
+| ** )  **_ | |__  
+|  * \ / * \| '_ \ 
 | |_) | (_) | |_) |
 |____/ \___/|_.__/ 
       </pre>
@@ -17,14 +16,11 @@
   </tr>
 </table>
 
-### DePaul Univeristy CS Student |  DePaul Esports Leadership |  Software Engineer
+### DePaul University CS Student |  DePaul Esports Leadership |  Software Engineer
 
 ---
 
-
-
 ##### 🛠 Fruit Tech:
-
 <p>
   <img src="https://skillicons.dev/icons?i=python" width="40" alt="Python">
   <img src="https://skillicons.dev/icons?i=java" width="40" alt="Java">
@@ -44,6 +40,6 @@
 #### 🍉 Ripe Thoughts:
 In the vastness of the digital orchard, we are all seeds of the cosmic fruit.
 
-<img src="https://i.redd.it/qypvxy28f4a91.gif" width="100%" alt="Cosmic Fruit Energy">
+<img src="https://i.redd.it/qypvxy28f4a91.gif" width="50%" alt="Cosmic Fruit Energy">
 
 <!-- Transforming reality, one polygon fruit at a time... -->

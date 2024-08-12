@@ -1,4 +1,4 @@
-[## (https://readme-typing-svg.demolab.com/demo/?color=76EDF7&lines=Hello+im+Bobby!)
+ (https://readme-typing-svg.demolab.com/demo/?color=76EDF7&lines=Hello+im+Bobby!)
 <table>
   <tr>
     <td>

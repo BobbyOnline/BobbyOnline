@@ -34,11 +34,10 @@
 
 #### 🍉 Fruit Communication:
 - 🌐 Website: https://bobbyonline.github.io
-- 🚀 Seed Beam: [Insert growth frequency]
+- 🚀 Seed Beam: (https://www.linkedin.com/in/nievesroberto39/
 - 💻 Fruit Form: bobby@fruitego.areo
 
-#### 🍉 Ripe Thoughts:
-In the vastness of the digital orchard, we are all seeds of the cosmic fruit.
+
 
 <img src="https://i.redd.it/qypvxy28f4a91.gif" width="50%" alt="Cosmic Fruit Energy">
 

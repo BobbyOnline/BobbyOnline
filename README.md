@@ -26,11 +26,18 @@
 - 🌱 Cultivating digital eon gardens
 - 👯 Seeking fellow Particles for virtual synergy
 
+<style>
+.icon {
+  width: 32px;
+  height: 32px;
+}
+</style>
+
 #### 💻 Tech Arsenal:
-![Windows 2000](https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg)
-![XHTML](https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg)
-![Flash](	https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg)
-![Max/MSP](https://img.shields.io/badge/Max/MSP-4.0-green?style=flat-square&logo=max&logoColor=white)
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" class="icon" alt="Windows 2000">
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" class="icon" alt="XHTML">
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" class="icon" alt="Flash">
+<img src="https://img.shields.io/badge/Max/MSP-4.0-green?style=flat-square&logo=max&logoColor=white" class="icon" alt="Max/MSP">
 
 #### 📊 Particle Matrix:
 <img src="https://github-readme-stats.vercel.app/api?username=BobbyOnline&show_icons=true&theme=synthwave" alt="BobbyOnline's GitHub stats" />

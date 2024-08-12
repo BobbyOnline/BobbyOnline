@@ -27,7 +27,7 @@
 - 👯 Seeking fellow Particles for virtual synergy
 
 #### 💻 Tech Arsenal:
-![Windows 2000](https://img.shields.io/badge/OS-Windows%202000-blue?style=flat-square&logo=windows&logoColor=white)
+![Windows 2000](https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg)
 ![XHTML](https://img.shields.io/badge/XHTML-1.0-orange?style=flat-square&logo=html5&logoColor=white)
 ![Flash](https://img.shields.io/badge/Flash-MX-red?style=flat-square&logo=adobe&logoColor=white)
 ![Max/MSP](https://img.shields.io/badge/Max/MSP-4.0-green?style=flat-square&logo=max&logoColor=white)

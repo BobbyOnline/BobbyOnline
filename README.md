@@ -27,10 +27,6 @@
 - 👯 Seeking fellow fruit farmers in the pixel fields
 
 ##### 🛠 Fruit Tech:
-![Melon Engine](https://img.shields.io/badge/Engine-Melon-ff69b4?style=flat-square&logo=unity&logoColor=white)
-![Seed Rays](https://img.shields.io/badge/Growth-Seed%20Rays-green?style=flat-square&logo=leaflet&logoColor=white)
-![Fruit Evolution](https://img.shields.io/badge/Evolution-Fruital-red?style=flat-square&logo=apple&logoColor=white)
-![Polygonal Physics](https://img.shields.io/badge/Physics-Polygonal-blue?style=flat-square&logo=blender&logoColor=white)
 <img src="https://skillicons.dev/icons?i=python" width="40" alt="Python">
 <img src="https://skillicons.dev/icons?i=java" width="40" alt="Java">
 <img src="https://skillicons.dev/icons?i=c" width="40" alt="C">

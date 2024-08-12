@@ -3,17 +3,16 @@
 <table>
   <tr>
     <td>
-      <pre>
+      <pre style="margin: 0;">
  ____        _     
 | __ )  ___ | |__  
 |  _ \ / _ \| '_ \ 
 | |_) | (_) | |_) |
 |____/ \___/|_.__/ 
-    
       </pre>
     </td>
     <td>
-      <img src="https://i.pinimg.com/originals/79/26/ef/7926ef0b17ed2bf04dad5205868af829.gif" width="200" alt="Polygonal  Creature">
+      <img src="https://i.pinimg.com/originals/79/26/ef/7926ef0b17ed2bf04dad5205868af829.gif" width="200" alt="Polygonal Creature">
     </td>
   </tr>
 </table>
@@ -27,7 +26,7 @@
 - 🌱 Nurturing the growth of low-poly watermelons
 - 👯 Seeking fellow fruit farmers in the pixel fields
 
-##### 🛠 Tech Tech:
+##### 🛠 Fruit Tech:
 ![Melon Engine](https://img.shields.io/badge/Engine-Melon-ff69b4?style=flat-square&logo=unity&logoColor=white)
 ![Seed Rays](https://img.shields.io/badge/Growth-Seed%20Rays-green?style=flat-square&logo=leaflet&logoColor=white)
 ![Fruit Evolution](https://img.shields.io/badge/Evolution-Fruital-red?style=flat-square&logo=apple&logoColor=white)
@@ -37,10 +36,6 @@
 <img src="https://skillicons.dev/icons?i=c" width="40" alt="C">
 <img src="https://skillicons.dev/icons?i=javascript" width="40" alt="JavaScript">
 <img src="https://skillicons.dev/icons?i=typescript" width="40" alt="TypeScript">
-
-
-
-
 
 #### 📊 Harvest Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=BobbyOnline&show_icons=true&theme=synthwave" alt="BobbyOnline's GitHub stats" />

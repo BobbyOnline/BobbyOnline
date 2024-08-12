@@ -1,4 +1,4 @@
-## Hello!!!! 
+## Hello!! 【=◈︿◈=】
 
 <table>
   <tr>
@@ -17,14 +17,11 @@
   </tr>
 </table>
 
-### 🔺 Polygon Fruit | 🌌 Cosmic Melon | 🎮 Digital Seed
+### DePaul Univeristy CS Student | 🌌 DePaul Esports Leadership | 🎮 Software Engineer
 
 ---
 
-#### 🍉 Current Slice:
-- 🔭 Cultivating polygonal fruit in the digital orchard
-- 🌱 Nurturing the growth of low-poly watermelons
-- 👯 Seeking fellow fruit farmers in the pixel fields
+
 
 ##### 🛠 Fruit Tech:
 

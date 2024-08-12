@@ -12,7 +12,7 @@
       </pre>
     </td>
     <td>
-      <img src="https://media.giphy.com/media/3oKIPt0KFuXu5l5OBG/giphy.gif" width="200">
+      <img src="https://steamuserimages-a.akamaihd.net/ugc/576820758911213449/ED8811473BDDB898792B4DAA16A2B168A8FF447A/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="200">
     </td>
   </tr>
 </table>

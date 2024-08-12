@@ -13,7 +13,7 @@
       </pre>
     </td>
     <td>
-      <img src="https://i.imgur.com/YOUR_PORYGON_IMAGE_LINK.png" width="200" alt="Polygonal Fruit Creature">
+      <img src="https://i.pinimg.com/originals/79/26/ef/7926ef0b17ed2bf04dad5205868af829.gif" width="200" alt="Polygonal  Creature">
     </td>
   </tr>
 </table>

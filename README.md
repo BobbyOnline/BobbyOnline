@@ -1,48 +1,49 @@
-## 🖥️ Welcome to BobbyOnline's Cyber Zone 🌐
+## ⚛️ BobbyOnline's Virtual Interface ⚛️
 
 <table>
   <tr>
     <td>
       <pre>
- ______   ______   ______   ______   __  __
-/\  == \ /\  __ \ /\  == \ /\  == \ /\ \_\ \
-\ \  __< \ \ \/\ \\ \  __< \ \  __< \ \____ \
- \ \_____\\ \_____\\ \_\ \_\\ \_____\\/\_____\
-  \/_____/ \/_____/ \/_/ /_/ \/_____/ \/_____/
+ __     ___      _               _   ____       _  __ 
+ \ \   / (_)_ __| |_ _   _  __ _| | / ___|  ___| |/ _|
+  \ \ / /| | '__| __| | | |/ _` | | \___ \ / _ \ | |_ 
+   \ V / | | |  | |_| |_| | (_| | |  ___) |  __/ |  _|
+    \_/  |_|_|   \__|\__,_|\__,_|_| |____/ \___|_|_|  
       </pre>
     </td>
     <td>
-      <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200">
+      <img src="https://media.giphy.com/media/3oKIPt0KFuXu5l5OBG/giphy.gif" width="200">
     </td>
   </tr>
 </table>
 
-###  | 💾 Code Hacker | 🚀 Cyber Surfer
+### 🔮 Techno-Shaman | 💾 Binary Dreamweaver | 🌐 Cyber-Utopian
 
 ---
 
 #### 📡 Current Transmission:
-- 🔭 Debugging the millennium bug
-- 🌱 Mastering the art of dial-up connection
-- 👯 Seeking fellow time travelers for collaboration
+- 🔭 Decoding the Ghost Voices in the machine
+- 🌱 Cultivating digital eon gardens
+- 👯 Seeking fellow Particles for virtual synergy
 
 #### 💻 Tech Arsenal:
-![Windows 98](https://img.shields.io/badge/OS-Windows%2098-blue?style=flat-square&logo=windows95&logoColor=white)
-![HTML 4.01](https://img.shields.io/badge/HTML-4.01-orange?style=flat-square&logo=html5&logoColor=white)
-![CSS 2](https://img.shields.io/badge/CSS-2-blue?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES3-yellow?style=flat-square&logo=javascript&logoColor=white)
+![Windows 2000](https://img.shields.io/badge/OS-Windows%202000-blue?style=flat-square&logo=windows&logoColor=white)
+![XHTML](https://img.shields.io/badge/XHTML-1.0-orange?style=flat-square&logo=html5&logoColor=white)
+![Flash](https://img.shields.io/badge/Flash-MX-red?style=flat-square&logo=adobe&logoColor=white)
+![Max/MSP](https://img.shields.io/badge/Max/MSP-4.0-green?style=flat-square&logo=max&logoColor=white)
 
-#### 📊 Code Matrix:
-<img src="https://github-readme-stats.vercel.app/api?username=BobbyOnline&show_icons=true&theme=radical" alt="BobbyOnline's GitHub stats" />
+#### 📊 Particle Matrix:
+<img src="https://github-readme-stats.vercel.app/api?username=BobbyOnline&show_icons=true&theme=synthwave" alt="BobbyOnline's GitHub stats" />
 
-#### 📫 Reach Me:
-- 📠 Fax: [Insert fax number]
-- 📟 Pager: [Insert pager number]
-- 💌 E-mail: bobby@aol.com
+#### 📫 Neural Link:
+- 📠 Nexus: [Insert cyberdeck number]
+- 📟 Hologram: [Insert holographic pager]
+- 💌 Techno-telepathy: bobby@virtualself.net
 
-#### ⚡ Fun fact:
-I still have a collection of floppy disks with all my important data!
+#### ⚡ Echoes of Reality:
+I've seen things you people wouldn't believe... Holographic symphonies off the shoulder of the information superhighway.
 
-<img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="100%">
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%">
 
+<!-- Eon Break initiated. Particle dreams loading... -->
 <!-- Don't forget to update your system clock before 2000! -->

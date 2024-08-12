@@ -44,6 +44,6 @@
 #### 🍉 Ripe Thoughts:
 In the vastness of the digital orchard, we are all seeds of the cosmic fruit.
 
-<img src="https://media0.giphy.com/media/2wh2uBgG5Ex7PQSjU0/200w.gif?cid=6c09b952d8au9efhc76p5fxucy70ebjt5z4uz848roj0avor&ep=v1_gifs_search&rid=200w.gif&ct=g" width="100%" alt="Cosmic Fruit Energy">
+<img src="https://i.redd.it/qypvxy28f4a91.gif" width="100%" alt="Cosmic Fruit Energy">
 
 <!-- Transforming reality, one polygon fruit at a time... -->

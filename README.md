@@ -4,12 +4,12 @@
   <tr>
     <td>
       <pre>
- ____             _   _____            
-|  _ \ ___  _ __ | | | ____|__ _  ___  
-| |_) / _ \| '_ \| | |  _| / _` |/ _ \ 
-|  __/ (_) | | | | | | |__| (_| | (_) |
-|_|   \___/|_| |_|_| |_____\__, |\___/ 
-                           |___/       
+ ____        _     
+| __ )  ___ | |__  
+|  _ \ / _ \| '_ \ 
+| |_) | (_) | |_) |
+|____/ \___/|_.__/ 
+    
       </pre>
     </td>
     <td>
@@ -46,7 +46,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=BobbyOnline&show_icons=true&theme=synthwave" alt="BobbyOnline's GitHub stats" />
 
 #### 🍉 Fruit Communication:
-- 🌐 Melon Net: [Insert fruit dimension coordinates]
+- 🌐 Website: https://bobbyonline.github.io
 - 🚀 Seed Beam: [Insert growth frequency]
 - 💻 Fruit Form: bobby@fruitego.areo
 

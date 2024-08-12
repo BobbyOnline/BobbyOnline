@@ -1,4 +1,4 @@
-## 🍉 BobbyOnline's Fruit Ego Areo 🍉
+## Hello!!!! 
 
 <table>
   <tr>
@@ -27,11 +27,14 @@
 - 👯 Seeking fellow fruit farmers in the pixel fields
 
 ##### 🛠 Fruit Tech:
-<img src="https://skillicons.dev/icons?i=python" width="40" alt="Python">
-<img src="https://skillicons.dev/icons?i=java" width="40" alt="Java">
-<img src="https://skillicons.dev/icons?i=c" width="40" alt="C">
-<img src="https://skillicons.dev/icons?i=javascript" width="40" alt="JavaScript">
-<img src="https://skillicons.dev/icons?i=typescript" width="40" alt="TypeScript">
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" width="40" alt="Python">
+  <img src="https://skillicons.dev/icons?i=java" width="40" alt="Java">
+  <img src="https://skillicons.dev/icons?i=c" width="40" alt="C">
+  <img src="https://skillicons.dev/icons?i=javascript" width="40" alt="JavaScript">
+  <img src="https://skillicons.dev/icons?i=typescript" width="40" alt="TypeScript">
+</p>
 
 #### 📊 Harvest Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=BobbyOnline&show_icons=true&theme=synthwave" alt="BobbyOnline's GitHub stats" />

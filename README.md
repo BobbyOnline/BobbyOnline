@@ -32,10 +32,9 @@
 #### 📊 Github Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=BobbyOnline&show_icons=true&theme=synthwave" alt="BobbyOnline's GitHub stats" />
 
-#### 🍉 Contact me! :
+#### Contact me! 
 - 🌐 Website: https://bobbyonline.github.io
-- 🚀 Seed Beam: (https://www.linkedin.com/in/nievesroberto39/
-- 💻 Fruit Form: bobby@fruitego.areo
+- 🚀 Linkedin : https://www.linkedin.com/in/nievesroberto39/
 
 
 

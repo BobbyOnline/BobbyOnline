@@ -34,7 +34,7 @@
 ![Polygonal Physics](https://img.shields.io/badge/Physics-Polygonal-blue?style=flat-square&logo=blender&logoColor=white)
 
 #### 📊 Harvest Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=BobbyOnline&show_icons=true&theme=synthwave" alt="BobbyOnline's GitHub stats" />
+<img src="https://img1.picmix.com/output/pic/normal/8/5/8/4/11524858_86f73.gif" alt="BobbyOnline's GitHub stats" />
 
 #### 🍉 Fruit Communication:
 - 🌐 Melon Net: [Insert fruit dimension coordinates]

@@ -34,6 +34,10 @@
 ![Polygonal Physics](https://img.shields.io/badge/Physics-Polygonal-blue?style=flat-square&logo=blender&logoColor=white)
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" width="40" alt="Python">
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" width="40" alt="Java">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/C-Dark.svg" width="40" alt="C">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript-Dark.svg" width="40" alt="JavaScript">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript-Dark.svg" width="40" alt="TypeScript">
+
 
 
 #### 📊 Harvest Stats:

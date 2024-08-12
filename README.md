@@ -32,8 +32,9 @@
 ![Seed Rays](https://img.shields.io/badge/Growth-Seed%20Rays-green?style=flat-square&logo=leaflet&logoColor=white)
 ![Fruit Evolution](https://img.shields.io/badge/Evolution-Fruital-red?style=flat-square&logo=apple&logoColor=white)
 ![Polygonal Physics](https://img.shields.io/badge/Physics-Polygonal-blue?style=flat-square&logo=blender&logoColor=white)
-![Python](https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg)
-![Java](https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg)
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" width="40" alt="Python">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" width="40" alt="Java">
+
 
 #### 📊 Harvest Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=BobbyOnline&show_icons=true&theme=synthwave" alt="BobbyOnline's GitHub stats" />

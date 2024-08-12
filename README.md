@@ -28,8 +28,8 @@
 
 
 #### 💻 Tech Arsenal:
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" class="icon" alt="Windows 2000">
-<img src="https://camo.githubusercontent.com/4123408b6fdb496e1ca591f4b2379d1fe3b7cc53a95b6a8a8acd8df012016af8/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f707974686f6e2e737667">
+<img src="	https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png">
+
 
 #### 📊 Particle Matrix:
 <img src="https://github-readme-stats.vercel.app/api?username=BobbyOnline&show_icons=true&theme=synthwave" alt="BobbyOnline's GitHub stats" />

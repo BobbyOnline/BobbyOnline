@@ -20,7 +20,7 @@
 
 ---
 
-##### 🛠 Fruit Tech:
+##### 🛠 Tech Stack :
 <p>
   <img src="https://skillicons.dev/icons?i=python" width="40" alt="Python">
   <img src="https://skillicons.dev/icons?i=java" width="40" alt="Java">
@@ -32,7 +32,7 @@
 #### 📊 Github Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=BobbyOnline&show_icons=true&theme=synthwave" alt="BobbyOnline's GitHub stats" />
 
-#### 🍉 Fruit Communication:
+#### 🍉 Contact me! :
 - 🌐 Website: https://bobbyonline.github.io
 - 🚀 Seed Beam: (https://www.linkedin.com/in/nievesroberto39/
 - 💻 Fruit Form: bobby@fruitego.areo
